@@ -3,6 +3,8 @@ Computer Science Engineering(AI & ML) Student at VIT Bhopal University, currentl
 Currently building skills in Python and web technologies(HTML ,CSS, JavaScript) with a growing interest in data science and machine learning.
 Goal : To build practrical AI/ML skills through projects and continuous learning. 
 
+##What I'm working on 
+- Strengthening programming fundamentals
 
 
 <!--
