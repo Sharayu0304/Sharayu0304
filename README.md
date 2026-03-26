@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Sharayu Sunil
+Computer Science Engineering(AI & ML) Student at VIT Bhopal University, currently in first year.
+Currently building skills in Python and web technologies(HTML ,CSS, JavaScript) with a growing interest in data science and machine learning.
+Goal : To build practrical AI/ML skills through projects and continuous learning. 
+
+
 
 <!--
 **Sharayu0304/Sharayu0304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
